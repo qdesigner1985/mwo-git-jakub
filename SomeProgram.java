@@ -6,4 +6,9 @@ public class SomeProgram {
 	public void startTheRockets() {
     // TODO implement
 	}
+
+	public void manageTheSatellite() {
+    // TODO implement
+	}
 }
+
