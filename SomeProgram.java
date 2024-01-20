@@ -3,6 +3,10 @@ public class SomeProgram {
 	public void manageTheSatellite() {
     // TODO implement
 }
+
+	public void manageTheRocked() {
+    // TODO implement
+}
 	
     public static void main(String[] args) {
       System.out.println("We are learning to use Git."); 
